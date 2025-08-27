@@ -17,6 +17,8 @@ O sistema simula um **gerenciamento de estoque**, utilizando **HashMap** para ar
 ## 📂 Estrutura do Projeto
 - **`Produto.java`** → Classe que representa um produto (ex.: nome, preço, quantidade).  
 - **`Estoque.java`** → Classe responsável pelo gerenciamento dos produtos, utilizando um **HashMap** para armazenar os dados.  
+- **`Data.java`** → Classe auxiliar para representar/manipular datas (ex.: validade, cadastro de produto etc.).  
+- **`Main.java`** → Classe principal que contém o método `main`, responsável por executar e testar o sistema.  
 
 ---
 
@@ -31,3 +33,5 @@ Este projeto foi criado como **atividade acadêmica**, para treinar conceitos fu
 - Programação Orientada a Objetos (POO)  
 - Estruturas de dados em Java  
 - Manipulação de coleções (`HashMap`)  
+
+---
